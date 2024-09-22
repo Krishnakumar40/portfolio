@@ -1,7 +1,5 @@
 import React from 'react'
 import styles from './SkillsStyles.module.css'
-import MarkLight from '../../assets/checkmark-light.svg'
-import MarkDark from '../../assets/checkmark-dark.svg'
 import SkillsList from './SkillsList'
 import { SkillsData } from './SkillsData'
 
@@ -9,8 +7,6 @@ import { SkillsData } from './SkillsData'
 import { useTheme } from '../../common/ThemeContext'
 
 function Skills() {
-  const {theme,toggleTheme}=useTheme();
-    const checkMarkIcon= theme === 'light'?MarkLight:MarkDark;
   return (
     
     <section id='skills' className={styles.container}>
