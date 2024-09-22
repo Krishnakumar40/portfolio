@@ -61,9 +61,8 @@ function Hero() {
             </a>
         </span>
         <p className={styles.description}>
-            {/* With a passion for developing modern React web apps for commercial
-            bussiness. */}
-            Turning ideas into seamless web experiences with React, I blend creativity and technology to solve business challenges.
+            With a passion for developing modern React web apps for commercial
+            bussiness.
         </p>
 
         
