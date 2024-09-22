@@ -38,11 +38,12 @@
        gap: 30px;
 
        p{
-        font-size: 20px;
+        font-size: 25px;
        }
 
-       hr{
+       
+    }
+    hr{
         width: 300px;
        }
-    }
 }

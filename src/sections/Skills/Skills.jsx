@@ -4,6 +4,8 @@ import MarkLight from '../../assets/checkmark-light.svg'
 import MarkDark from '../../assets/checkmark-dark.svg'
 import SkillsList from './SkillsList'
 import { SkillsData } from './SkillsData'
+
+
 import { useTheme } from '../../common/ThemeContext'
 
 function Skills() {
@@ -15,7 +17,7 @@ function Skills() {
         <h1 className='sectionTitle'>Skills</h1>
         <div className={styles.skillList}>
             {SkillsData.map((data,index)=>(
-                <SkillsList key={index} src={checkMarkIcon} skill={data.skill}/>
+                <SkillsList key={index} src={data.icon} skill={data.skill} hoverColor={data.hoverColor}/>
             ))}
             </div>
 
