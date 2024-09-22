@@ -28,6 +28,7 @@
     a{
         width: fit-content;
         align-self:center;
+        margin: auto;
     }
     button{
         background-color: var(--btn-color);
@@ -67,7 +68,7 @@
 }
 .description{
     max-width: 24ch;
-    margin-left: auto;
+    margin:auto;
 }
 .info{
     display: flex;
