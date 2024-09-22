@@ -67,6 +67,7 @@
 }
 .description{
     max-width: 24ch;
+    margin-left: auto;
 }
 .info{
     display: flex;
