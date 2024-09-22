@@ -50,7 +50,7 @@ function Hero() {
       </span>
           
         <span>
-            <a href='https://twitter.com' target="_blank">
+            <a href='https://twitter.com/krishna' target="_blank">
             <img src={twitterIcon} alt='x icon'/>
             </a>
             <a href='https://github.com/Krishnakumar40' target="_blank">
