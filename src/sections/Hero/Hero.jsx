@@ -62,7 +62,7 @@ function Hero() {
         </span>
         <p className={styles.description}>
    
-Passionate about creating modern web applications with Java and React, I focus on delivering scalable, user-friendly solutions that drive innovation.
+        Passionate about creating innovative and scalable solutions using Java and React.
         </p>
 
         

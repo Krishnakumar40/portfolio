@@ -12,10 +12,7 @@ const About = () => {
           <img className={styles.profilePic} src={profilePic} alt="Profile Picture" />
         </div>
         <p className={styles.description}>
-          I am a web developer with a passion for creating beautiful and functional websites. 
-          I have experience working with React, Next.js, and other web technologies. 
-          I enjoy learning new things and staying up-to-date with the latest trends in web development. 
-          I am always looking for new and exciting projects to work on, and I am always looking for ways to improve my skills.
+        Web developer with a passion for creating aesthetically pleasing and functional websites. Experienced in utilizing React and Spring Boot, along with various web technologies, to deliver engaging user experiences. Committed to continuous learning and staying current with the latest trends in web development. Eager to take on new and exciting projects while consistently seeking opportunities to enhance skills and knowledge.
         </p>
       </div>
     </section>
