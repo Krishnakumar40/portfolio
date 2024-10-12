@@ -1,8 +1,9 @@
+import html from "../assets/html.png";
 export const experiences = [
     {
       title: "Software Engineer",
       company_name: "TechCorp Solutions",
-      icon: "/src/assets/html.png",
+      icon: html,
       iconBg: "#383E56",
       date: "Jan 2021 - Present",
       points: [
