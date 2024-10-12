@@ -61,8 +61,8 @@ function Hero() {
             </a>
         </span>
         <p className={styles.description}>
-            With a passion for developing modern React web apps for commercial
-            bussiness.
+   
+Passionate about creating modern web applications with Java and React, I focus on delivering scalable, user-friendly solutions that drive innovation.
         </p>
 
         
